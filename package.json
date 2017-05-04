@@ -1,0 +1,22 @@
+{
+  "name": "rem-init",
+  "version": "1.1.2",
+  "description": "移动端rem大小初始化模块,设置后可以使用rem作为单位实现响应布局，1rem==100px",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnaohaore/rem-init.git"
+  },
+  "keywords": [
+    "rem"
+  ],
+  "author": "应进兵",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnaohaore/rem-init/issues"
+  },
+  "homepage": "https://github.com/bnaohaore/rem-init#readme"
+}
